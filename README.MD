@@ -1,6 +1,7 @@
 # TELEINFO ANDROID APP
 
-This Android App uses data collected from [teleinfo-php-firebase](https://github.com/vrobert78/teleinfo-php-firebase) and stored into [Google Firebase Realtime Database](https://firebase.google.com/products/realtime-database).
+This Android App uses data collected from [teleinfo-enphase-xev101-php-firebase
+](https://github.com/vrobert78/teleinfo-enphase-xev101-php-firebase) and stored into [Google Firebase Realtime Database](https://firebase.google.com/products/realtime-database).
 
 The app reflects in near-realtime your electricity consumption and represents it using a gauge.
 
